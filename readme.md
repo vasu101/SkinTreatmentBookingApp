@@ -1,6 +1,6 @@
 # Aurora Skin Care Management System
 
-This project is a management system designed for **Aurora Skin Care**, a private skin clinic in Colombo offering affordable dermatological services. The system facilitates appointment scheduling, fee calculations, treatment invoicing, and patient information management, helping the clinic's front desk manage appointments and billing efficiently.
+This project is a management system designed for **Aurora Skin Care**, a private skin clinic offering affordable dermatological services. The system facilitates appointment scheduling, fee calculations, treatment invoicing, and patient information management, helping the clinic's front desk manage appointments and billing efficiently.
 
 ---
 
@@ -30,6 +30,6 @@ The system includes the following key functionalities:
 ## System Requirements
 
 - **Programming Language**: Java (Object-oriented approach).
-- **Interface**: Command Line Interface (CLI) or Graphical User Interface (GUI).
-- **UML Class Diagram**: A class diagram is created using UML, with each class name prefixed by the Kingston University student ID.
+- **Interface**: Graphical User Interface (GUI) using Java Swing.
+- **UML Class Diagram**: A class diagram is created using UML.
 - **Testing**: General test cases created using a standard template.
